@@ -1,13 +1,13 @@
 .navbar {
     display: flex;
     justify-content: space-between;
-    padding-left: 280px;
-    padding-right: 280px;
+    padding-left: 300px;
+    padding-right: 300px;
     box-shadow: 2px 1px 2px 0px #eee;
 }
 
 .logo {
-    max-height: 20px;
+    max-height: 17px;
     padding-top: 20px;
 }
 
@@ -32,13 +32,14 @@
     display: flex;
     justify-content: center;
     font-size: 2.25rem;
-    font-weight: 559;
+    font-weight: 500;
     color: #424242;
 }
 
 .hero-subtitle {
     display: flex;
     justify-content: center;
+    color: #424242;
     padding-top: 15px;
     font-weight: 400;
     font-size: 1.5rem;
