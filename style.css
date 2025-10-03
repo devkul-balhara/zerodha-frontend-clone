@@ -1,0 +1,61 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 280px;
+    padding-right: 280px;
+    box-shadow: 2px 1px 2px 0px #eee;
+}
+
+.logo {
+    max-height: 20px;
+    padding-top: 20px;
+}
+
+.nav-links {
+    display: flex;
+}
+
+.nav-item {
+    padding: 20px;
+    color: #666;
+    cursor: pointer;
+}
+
+.hero-image {
+    display: flex;
+    justify-content: center;
+    padding-top: 80px;
+}
+
+.hero-title {
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    font-size: 2.25rem;
+    font-weight: 559;
+    color: #424242;
+}
+
+.hero-subtitle {
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.cta {
+    display: flex;
+    justify-content: center;
+    margin-top: 45px;
+}
+
+.cta-button {
+    background-color: #387ed1;
+    color: #fff;
+    cursor: pointer;
+    border: 1px solid rgba(0,0,0,0);
+    border-radius: 3px;
+    padding: 10px 30px;
+    font-size: 25px;
+}
